@@ -6,12 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [0.0.1] - 2020-XX-XX
+## [1.2.0] - 2020-07-02
 ### Added
 - This CHANGELOG file to hopefully serve as an evolving example of a standardized open source project CHANGELOG.
 - README one line implemented.
 
-<!--Must change link URL-->
-
-[Unreleased]: https://github.com/XXX/compare/v0.0.1...HEAD
-[0.0.1]: https://github.com/XXX/releases/v0.0.1
+[Unreleased]: https://github.com/My-Novel-Management/sn-darktrain/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/My-Novel-Management/sn-darktrain/releases/v1.2.0
